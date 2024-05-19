@@ -1,0 +1,6 @@
+tbody tr td:first-child
+{
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
